@@ -17,5 +17,6 @@ This is a personal homework for the AI Experiment course in the fall semester of
 - **net_greytransX.pkl**是通过将部分数据图像转为灰度图来进行数据增强后训练出的模型，这部分模型中epoch数为50时（net_greytrans50.pkl）模型效果达到了最优，对测试图片的识别准确率达到了**0.99**。
 
 下图分别展示了net_30.pkl的识别效果和net_greytrans50.pkl的识别效果
+![2](https://github.com/xtt001/tiny-SSD/blob/main/pics/2.jpg)
 ![1](https://github.com/xtt001/tiny-SSD/blob/main/pics/1.jpg)
 
